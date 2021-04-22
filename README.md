@@ -1,2 +1,7 @@
-"# delta-con-solver"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/adamrudolf-becube/delta-con-solver.git git push -u origin main
 # delta-con-solver
+
+An old code added to GitHub years later it was written.
+
+I used this code for my [masters thesys](http://adamrudolf.web.elte.hu/MSc_szakdolgozat.pdf) as a helper.
+
+Sorry for not including any instructions or descriptions, the purpose of this repo is to save the code to the future in a presentable way. As I remember I used Visual Studio to develop it.
