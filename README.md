@@ -1,6 +1,6 @@
 # delta-con-solver
 
-An old code added to GitHub years later it was written.
+An old code added to GitHub years later it was written. Code was written in 2014.
 
 Despite of the name it doesn't implement the DeltaCon algorith, but contains classes for the statistical comparison of graphs. Calculates the overlap of edges, and correlation of degree distributions among other basic statistical data.
 
